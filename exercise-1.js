@@ -60,8 +60,7 @@ function greaterThan (x, y) {
     return true;
   else
     return false;
-  }
-
+  };
 
 // Q5
 // Write a function called `greet` that takes a
@@ -70,7 +69,7 @@ function greaterThan (x, y) {
 // is the parameter that was passed in.
 
 function greet(Name) {
-  return ("Hello, " + Name + "!")
+  return ("Hello, " + Name + "!");
 };
 
 
